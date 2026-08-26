@@ -1,0 +1,273 @@
+Recipes
+
+Main Course
+Paneer Butter Masala
+Palak Paneer
+Punjabi Style Paneer
+Paneer Lababdaar
+Paneer Biryani
+White Sauce Pasta (Alfredo)
+Paneer Tikka Masala
+Sev Tamatar
+Bread Pizza
+Creamy MUshroom with Herbed Rice
+Burger
+Chilli Cheese Mushroom Toast
+Rasam Rice
+Bisibele Bath
+Tomato Rice
+Pav Bhaji
+Misal Pav
+Afgan Egg Curry
+Egg Curry
+Shakshuka
+Egg Gold Coins
+Egg Biryani
+Egg Bhurji
+Desi Shakshuka
+Egg Ghotala
+
+
+
+
+Starters
+{
+        name: "Gobi Manchurian",
+        category: "Starters",
+        difficulty: 7,
+        time: "",
+        servings: 4
+    },
+    {
+        name: "Dry Gobi",
+        category: "Starters",
+        difficulty: 6,
+        time: 45,
+        servings: 4
+
+    },
+
+    {
+        name: "Mushroom Pepper Dry",
+        category: "Starters",
+        difficulty: 8,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Mushroom Chilli",
+        category: "Starters",
+        difficulty: 7,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Peri Peri Oyester Mushroom",
+        category: "Starters",
+        difficulty: 7,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Paneer Chilli",
+        category: "Starters",
+        difficulty: 8,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Honey Chilli Potato",
+        category: "Starters",
+        difficulty: 6,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Babycorn Manchurian",
+        category: "Starters",
+        difficulty: 7,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Spring Roll",
+        category: "Starters",
+        difficulty: 8,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Dhokla",
+        category: "Snacks",
+        difficulty: 6,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Vada Pav",
+        category: "Snacks",
+        difficulty: 7,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Butter Garlic Maggi",
+        category: "Snacks",
+        difficulty: 6,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Anda Maggi",
+        category: "Snacks",
+        difficulty: 7,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Sev Puri",
+        category: "Snacks",
+        difficulty: 7,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Pani Puri",
+        category: "Snacks",
+        difficulty: 8,
+        time: 45,
+        servings: 4
+    },
+
+
+    {
+        name: "Dahi Puri",
+        category: "Snacks",
+        difficulty: 7,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Bhajji (Pakora)",
+        category: "Snacks",
+        difficulty: 7,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Frankie/Roll",
+        category: "Snacks",
+        difficulty: 8,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Poha",
+        category: "Snacks",
+        difficulty: 6,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Shahi Tukda",
+        category: "Dessert",
+        difficulty: 8,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Chocolate Pudding",
+        category: "Dessert",
+        difficulty: 8,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Milk Peda",
+        category: "Dessert",
+        difficulty: 7,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Banana Cake",
+        category: "Dessert",
+        difficulty: 7,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Besan Laddu",
+        category: "Dessert",
+        difficulty: 7,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Rava Laddu",
+        category: "Dessert",
+        difficulty: 8,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Rice Kheer",
+        category: "Dessert",
+        difficulty: 8,
+        time: 45,
+        servings: 4
+    },
+
+    {
+        name: "Seviyan",
+        category: "Dessert",
+        difficulty: 8,
+        time: 45,
+        servings: 4
+    }
+
+
+
+:root {
+  --cream: #FAF3E6;
+  --beige: #EEDFC4;
+  --brown-dark: #3B2417;
+  --brown: #7C4A2D;
+  --brown-light: #C08552;
+  --gold: #B4884E;
+  --white: #FFFFFF;
+  --text-muted: #7D6E5C;
+  --shadow-sm: 0 4px 14px rgba(59, 36, 23, 0.08);
+  --shadow: 0 14px 36px rgba(59, 36, 23, 0.12);
+  --shadow-lg: 0 24px 60px rgba(59, 36, 23, 0.18);
+  --radius: 18px;
+  --radius-sm: 10px;
+  --font-heading: 'Fraunces', serif;
+  --font-accent: 'Fraunces', serif;
+  --font-body: 'Manrope', sans-serif;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+
